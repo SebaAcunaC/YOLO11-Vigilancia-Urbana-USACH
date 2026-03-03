@@ -1,0 +1,12 @@
+names:
+- Person
+nc: 1
+roboflow:
+  license: MIT
+  project: person-hgivm-vyoba
+  url: https://universe.roboflow.com/sebastianacua/person-hgivm-vyoba/dataset/1
+  version: 1
+  workspace: sebastianacua
+test: ../test/images
+train: ../train/images
+val: ../valid/images
