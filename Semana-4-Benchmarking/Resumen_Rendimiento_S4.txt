@@ -1,0 +1,7 @@
+RESUMEN DE RENDIMIENTO - SEMANA 4
+Modelo: YOLO11n (USACH Project)
+----------------------------------------
+Video procesado: 9921125-uhd_3840_2160_30fps.mp4
+Latencia Total: 177.21 ms
+FPS Reales: 5.64 FPS
+----------------------------------------
